@@ -1,4 +1,14 @@
-# :construction: README customizado em construção ! :construction:
+# Habilidades exercitadas:
+
+- Lógica;
+
+- Capacidade de interpretação de problemas;
+
+- Capacidade de interpretação de um código legado;
+
+- Capacidade de otimizar a resolução de problemas e;
+
+- Resolver problemas/Otimizar algoritmos sob pressão.
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
